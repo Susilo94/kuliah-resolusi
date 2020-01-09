@@ -3,6 +3,6 @@ RESOLUSI KULIAH
 -Cepat untuk menyelesaikan tugas
 -Jangan ada waktu istirahat yang berlebihan
 -Target tingkatkan kemampuan
-  *python
-  *php
-  
+-Kerja sama dengan yang lain
+-Buat sesuatu dengan tim
+
